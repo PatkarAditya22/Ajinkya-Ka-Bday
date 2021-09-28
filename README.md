@@ -21,7 +21,6 @@ Person list is
 <p>It is not case sensitive par naam same dalna</p>
 
 - ;;artist
-- ;;unnati
 - ;;developers
 
 ## 👨‍💻 Team members
